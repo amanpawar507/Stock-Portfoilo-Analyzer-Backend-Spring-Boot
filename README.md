@@ -15,6 +15,4 @@ Technologies:
 
 Swagger:
 {base-url}/swagger-ui/index.html
-=======
-# Stock-Portfoilo-Analyzer-Backend-Spring-Boot
->>>>>>> 49f412f (Initial commit)
+
