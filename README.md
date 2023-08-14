@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # stock-portfolio-management
 Complete backend as a REST API for a stock-market portfolio management application, with proper authentication, login/ logout system, live stock prices, etc.
 
@@ -14,3 +15,6 @@ Technologies:
 
 Swagger:
 {base-url}/swagger-ui/index.html
+=======
+# Stock-Portfoilo-Analyzer-Backend-Spring-Boot
+>>>>>>> 49f412f (Initial commit)
